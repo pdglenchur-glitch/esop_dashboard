@@ -1,6 +1,6 @@
 # ESOP Data Dashboard
 
-An interactive Tableau dashboard exploring U.S. Employee Stock Ownership Plan (ESOP) statistics — participation, contributions, growth trends, and geographic/industry distribution. Built as a take-home project for a data analytics interview.
+An interactive Tableau dashboard exploring U.S. Employee Stock Ownership Plan (ESOP) statistics; participation, contributions, growth trends, and geographic/industry distribution. Built as a take-home project for a data analytics interview.
 
 ## About
 
@@ -21,7 +21,7 @@ Aggregate U.S. ESOP statistics covering 6,548 plans, ~15M participants, and $1.8
 
 2. **Plans are shrinking in number but growing in size.** The total number of ESOPs declined from 6,718 (2014) to a low of 6,467 (2020) before recovering to 6,548 (2022), a net drop of 2.5%. Over the same window, total participants grew 6.5%, from 14.05M to 14.96M. Fewer plans are covering more people, suggesting gradual consolidation into larger plans rather than net plan growth.
 
-3. **ESOP adoption is industry- and geography-concentrated.** Just three industries — Manufacturing (21%), Professional/Scientific/Technical Services (19%), and Construction (16%) account for over half of all ESOP companies. Geographically, California leads by plan count (781 ESOPs, ~12% of the national total), while states like Arkansas are outliers on a per-plan basis: just 47 plans but over 2M participants (~43K participants per plan, nearly 20x the national average of ~2,284), pointing to a handful of very large employer-sponsored plans concentrated there.
+3. **ESOP adoption is industry- and geography-concentrated.** Just three industries; Manufacturing (21%), Professional/Scientific/Technical Services (19%), and Construction (16%) account for over half of all ESOP companies. Geographically, California leads by plan count (781 ESOPs, ~12% of the national total), while states like Arkansas are outliers on a per-plan basis: just 47 plans but over 2M participants (~43K participants per plan, nearly 20x the national average of ~2,284), pointing to a handful of very large employer-sponsored plans concentrated there.
 
 ## Tools
 
