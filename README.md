@@ -28,7 +28,7 @@ Aggregate U.S. ESOP statistics covering 6,548 plans, ~15M participants, and $1.8
 - Tableau (dashboard design & visualization)
 - Excel (data staging/cleaning)
 
-## Live Dashboard
+## View Here
 
 <a href="https://pdglenchur-glitch.github.io/esop_dashboard/">
   <img src="https://raw.githubusercontent.com/pdglenchur-glitch/esop_dashboard/main/assets/esop_preview.png" width="700">
